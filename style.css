@@ -1,0 +1,12 @@
+.section-1 , .section-3{
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+}
+.h1 , .h2{
+    text-align: center;
+}
+.img{
+    width: 100%;
+    height: auto;
+}
