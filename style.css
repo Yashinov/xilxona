@@ -11,9 +11,8 @@
     height: auto;
 }
 footer{
-    height: 70px;
-    display: flex;
-    align-items: center;
+    height: 50px;
+    padding: 10px;
     background-color: #121212;
     color: #fff;
 }
