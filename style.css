@@ -11,5 +11,9 @@
     height: auto;
 }
 footer{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
     background-color: #121212;
 }
