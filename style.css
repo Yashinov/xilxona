@@ -11,7 +11,7 @@
     height: auto;
 }
 footer{
-    min-height: 70px;
+    height: 70px;
     display: flex;
     align-items: center;
     background-color: #121212;
