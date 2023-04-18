@@ -1,3 +1,10 @@
+header{
+    min-height: 100px;
+    padding: 20px;
+    background-color: #121212;
+    color: #fff;
+}
+
 .section-1 , .section-3{
     min-height: 100px;
     display: flex;
